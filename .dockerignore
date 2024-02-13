@@ -33,3 +33,6 @@
 LICENSE
 README.md
 db.sqlite3
+__pycache__
+__pypackages__
+
